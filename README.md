@@ -13,14 +13,14 @@
 <!-- Fin de links sobre encabezado -->
 
 
-<!-- PROJECT LOGO -->
+<!-- GIF de bienvenida -->
 <br />
-<div align="center">
+<header align="center">
   <a href="https://github.com/aabermudez/">
     <img src="images/gif/Code_bebop.gif" alt="Animación de código" width="120" height="120">
   </a>
 
-  <h3 align="center">¡Hi there!, Welcome to my GitHub.</h3>
+  <h3 align="center">¡Hola!, Bienvenido a mi GitHub.</h3>
 
   <p align="center">
     Siéntete libre de explorar mis proyectos, copiarlos, anotarlos y aportarlo lo que te parezca!
@@ -35,18 +35,18 @@
     &middot;
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Contáctame</a>
   </p>
-</div>
+</header>
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+<!-- Tabla de contenido -->
+<nav>
+  <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Proyectos">Proyectos actuales</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Litorales">Built With</a></li>
       </ul>
     </li>
     <li>
@@ -63,185 +63,195 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</nav>
 
 
+<main>
+  <article>
+  
+    <header id="Proyectos">
+    <h1>Proyectos actuales.</h1>
+    </header>
 
-<!-- ABOUT THE PROJECT -->
-# Proyectos actuales
+    <section>
+      <h2 id="Litorales"> Litorales de Colombia. </h2>
 
-## Litorales de Colombia
+      Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena (CIOH) acompañando actividades del Servicio Hidrográfico Nacional (SHN) dependencias de la Dirección General Marítima.
 
-Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena (CIOH) acompañando actividades del Servicio Hidrográfico Nacional (SHN) dependencias de la Dirección General Marítima.
+      <a href="litocol.github.io/litorales/" align="center">
+        <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="500" height="auto">
+      </a>
 
-<a href="litocol.github.io/litorales/" align="center">
-  <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="500" height="auto">
-</a>
+      Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.
 
-Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.
+      Temáticas:
+      * Geomorfología
+      * Geografía
+      * Geología
 
-Temáticas:
-* Geomorfología
-* Geografía
-* Geología
+      ### Colaboradores.
 
-### Colaboradores
+      Andrés Agudelo Bermúdez (Activo) 
+      Nila Parra León (Activa)
+      Miguel Diego Gómez Sánchez (Inactivo)
 
-Andrés Agudelo Bermúdez (Activo) 
-Nila Parra León (Activa)
-Miguel Diego Gómez Sánchez (Inactivo)
+      <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
+      ## Software VACUNET.
+      #### Sistema de gestión de usuarios, citas y certificación de procesos de vacunación.
+    </section>
+    
+    # Tecnologías con las que he tenido contacto
 
+    A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto con los siguientes lenguajes de programación:
 
+    * [![Next][Next.js]][Next-url]
+    * [![React][React.js]][React-url]
+    * [![Vue][Vue.js]][Vue-url]
+    * [![Angular][Angular.io]][Angular-url]
+    * [![Svelte][Svelte.dev]][Svelte-url]
+    * [![Laravel][Laravel.com]][Laravel-url]
+    * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+    * [![JQuery][JQuery.com]][JQuery-url]
 
-### Built With
+    En cuanto a frameworks:
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+    Y herramientas de trabajo.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+    <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
+  </article>  
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- GETTING STARTED -->
+  ## Getting Started
 
+  This is an example of how you may give instructions on setting up your project locally.
+  To get a local copy up and running follow these simple example steps.
 
-<!-- GETTING STARTED -->
-## Getting Started
+  ### Prerequisites
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+  This is an example of how to list things you need to use the software and how to install them.
+  * npm
+    ```sh
+    npm install npm@latest -g
+    ```
 
-### Prerequisites
+  ### Installation
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+  _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-### Installation
+  1. Get a free API Key at [https://example.com](https://example.com)
+  2. Clone the repo
+    ```sh
+    git clone https://github.com/github_username/repo_name.git
+    ```
+  3. Install NPM packages
+    ```sh
+    npm install
+    ```
+  4. Enter your API in `config.js`
+    ```js
+    const API_KEY = 'ENTER YOUR API';
+    ```
+  5. Change git remote url to avoid accidental pushes to base project
+    ```sh
+    git remote set-url origin github_username/repo_name
+    git remote -v # confirm the changes
+    ```
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- USAGE EXAMPLES -->
+  ## Usage
 
+  Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-<!-- USAGE EXAMPLES -->
-## Usage
+  _For more examples, please refer to the [Documentation](https://example.com)_
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- ROADMAP -->
+  ## Roadmap
 
+  - [x] Add Changelog
+  - [x] Add back to top links
+  - [ ] Add Additional Templates w/ Examples
+  - [ ] Add "components" document to easily copy & paste sections of the readme
+  - [ ] Multi-language Support
+      - [ ] Chinese
+      - [ ] Spanish
 
-<!-- ROADMAP -->
-## Roadmap
+  See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- CONTRIBUTING -->
+  ## Contributing
 
+  Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-<!-- CONTRIBUTING -->
-## Contributing
+  If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+  Don't forget to give the project a star! Thanks again!
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+  1. Fork the Project
+  2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+  3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+  4. Push to the Branch (`git push origin feature/AmazingFeature`)
+  5. Open a Pull Request
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+  ### Top contributors:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+  <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+  </a>
 
-### Top contributors:
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- LICENSE -->
+  ## License
 
+  Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-<!-- LICENSE -->
-## License
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- CONTACT -->
+  ## Contacto
 
+  Puede 
 
-<!-- CONTACT -->
-## Contacto
+  Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-Puede 
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
+  <!-- Reconocimientos -->
+  ## Reconocimientos
 
+  Hola muchos de mis primeros proyectos, entre los que cuento este archivo readme pueden venir de alguna plantilla alojada en los siguientes repositorios o al menos tomé ideas de estos (con su permiso claro está), por lo que les agradezco a través de su mención:
 
-<!-- Reconocimientos -->
-## Reconocimientos
+  * [Choose an Open Source License](https://choosealicense.com)
+  * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+  * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+  * [Malven's Grid Cheatsheet](https://grid.malven.co/)
+  * [Img Shields](https://shields.io)
+  * [GitHub Pages](https://pages.github.com)
+  * [Font Awesome](https://fontawesome.com)
+  * [React Icons](https://react-icons.github.io/react-icons/search)
 
-Hola muchos de mis primeros proyectos, entre los que cuento este archivo readme pueden venir de alguna plantilla alojada en los siguientes repositorios o al menos tomé ideas de estos (con su permiso claro está), por lo que les agradezco a través de su mención:
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+</main>
 
 
 <!-- Comienzan links de placas de cabecera -->
