@@ -68,26 +68,30 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Proyectos actuales
+# Proyectos actuales
 
-#Litorales de Colombia
+## Litorales de Colombia
 
-Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena.
+Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena (CIOH) acompañando actividades del Servicio Hidrográfico Nacional (SHN) dependencias de la Dirección General Marítima.
 
-[![Proyecto1][Captura-Proyecto1]](https://litocol.github.io/litorales/)
+<a href="litocol.github.io/litorales/" align="center">
+  <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="500" height="auto">
+</a>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Temáticas:
+* Geomorfología
+* Geografía
+* Geología
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+### Colaboradores
 
-Use the `BLANK_README.md` to get started.
+Andrés Agudelo Bermúdez (Activo) 
+Nila Parra León (Activa)
+Miguel Diego Gómez Sánchez (Inactivo)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -104,7 +108,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -145,7 +149,7 @@ _Below is an example of how you can instruct your audience on installing and set
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -156,7 +160,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -173,7 +177,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -197,7 +201,7 @@ Don't forget to give the project a star! Thanks again!
   <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
 </a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
@@ -206,25 +210,25 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Puede 
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- Reconocimientos -->
+## Reconocimientos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Hola muchos de mis primeros proyectos, entre los que cuento este archivo readme pueden venir de alguna plantilla alojada en los siguientes repositorios o al menos tomé ideas de estos (con su permiso claro está), por lo que les agradezco a través de su mención:
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -257,7 +261,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- Hasta aquí links de placas de cabecera -->
 
-[Captura-Proyecto1]: images/litocol.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
