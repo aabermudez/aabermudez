@@ -18,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Lenguaje][Placa-Lenguaje]][contributors-url]
-[![Language][Language-shield]][Language-url]
-[![Sprache][Sprache-Plakette]][Sprache-url]
-[![Estudios][Placa-Etudios]][Estudios-url]
-[![Licencia][Placa-Licencia]][Licencia-url]
-[![LinkedIn][Placa-Linkedin]][Linkedin-url]
+[![Lenguaje][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -82,13 +82,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Proyectos actuales
+## About The Project
 
-#Litorales de Colombia
-
-Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena.
-
-[![Proyecto1][Captura-Proyecto1]](https://litocol.github.io/litorales/)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -255,19 +251,19 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Placa-Lenguaje]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
-[Lenguaje-url]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
-[Language-shield]: https://img.shields.io/badge/Language-En-red
-[Language-url]: https://img.shields.io/badge/Language-En-red
-[Sprache-Plakette]: https://img.shields.io/badge/Sprache-De-blue
-[Sprache-url]: https://img.shields.io/badge/Sprache-De-blue
-[Estudios-shield]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
-[Estudios-url]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
-[Licencia-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[Licencia-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[Placa-Linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[Linkedin-url]: www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8
-[Captura-Proyecto1]: images/litocol.png
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8
+[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
