@@ -6,7 +6,7 @@
 [![Lenguaje][Placa-Lenguaje]][Lenguaje-url]
 [![Language][Language-shield]][Language-url]
 [![Sprache][Sprache-Plakette]][Sprache-url]
-[![Estudios][Placa-Etudios]][Estudios-url]
+[![Estudios][Placa-Estudios]][Estudios-url]
 [![Licencia][Placa-Licencia]][Licencia-url]
 [![LinkedIn][Placa-Linkedin]][Linkedin-url]
 
@@ -239,8 +239,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- Comienzan links de placas de cabecera -->
+
 [Placa-Lenguaje]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
 [Lenguaje-url]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
 [Language-shield]: https://img.shields.io/badge/Language-En-red
@@ -249,11 +250,12 @@ Use this space to list resources you find helpful and would like to give credit 
 [Sprache-url]: https://img.shields.io/badge/Sprache-De-blue
 [Placa-Estudios]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
 [Estudios-url]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
-[Placa-Licencia]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[Licencia-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[Placa-Licencia]: https://img.shields.io/badge/Licencia-Sin%20licencia-%238A2BE2
+[Licencia-url]: https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt
 [Placa-Linkedin]: https://img.shields.io/badge/Red%20laboral-Linkedin-%23ff5733
 [Linkedin-url]: www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8
--- A
+
+<!-- Hasta aquí links de placas de cabecera -->
 
 [Captura-Proyecto1]: images/litocol.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
