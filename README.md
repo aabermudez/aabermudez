@@ -1,30 +1,16 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
+<!-- Comienzo de links de encabezado -->
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Lenguaje][Placa-Lenguaje]][contributors-url]
+[![Lenguaje][Placa-Lenguaje]][Lenguaje-url]
 [![Language][Language-shield]][Language-url]
 [![Sprache][Sprache-Plakette]][Sprache-url]
 [![Estudios][Placa-Etudios]][Estudios-url]
 [![Licencia][Placa-Licencia]][Licencia-url]
 [![LinkedIn][Placa-Linkedin]][Linkedin-url]
 
+<!-- Fin de links sobre encabezado -->
 
 
 <!-- PROJECT LOGO -->
@@ -261,12 +247,14 @@ Use this space to list resources you find helpful and would like to give credit 
 [Language-url]: https://img.shields.io/badge/Language-En-red
 [Sprache-Plakette]: https://img.shields.io/badge/Sprache-De-blue
 [Sprache-url]: https://img.shields.io/badge/Sprache-De-blue
-[Estudios-shield]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
+[Placa-Estudios]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
 [Estudios-url]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
-[Licencia-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[Placa-Licencia]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [Licencia-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[Placa-Linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[Placa-Linkedin]: https://img.shields.io/badge/Red%20laboral-Linkedin-%23ff5733
 [Linkedin-url]: www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8
+-- A
+
 [Captura-Proyecto1]: images/litocol.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
