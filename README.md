@@ -77,24 +77,29 @@
   <h3> Colaboradores.</h3>
 
   <p>Andrés Agudelo Bermúdez (Activo)
+  <br>
   Nila Parra León (Activa)
+  <br>
   Miguel Diego Gómez Sánchez (Inactivo)</p>
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
   <h2>Software VACUNET.</h2>
-  <h4>Sistema de gestión de usuarios, citas y certificación de procesos de vacunación.</h4>
+  <h3>Sistema de gestión de usuarios, citas y certificación de procesos de vacunación.</h3>
 
   <h3>Marco</h3>
 
+  <p>Este software constituye un trabajo grupal ante el Servicio Nacional de Aprendizaje (SENA) en Colombia, cuyo desarrollo va en manos de un equipo de aprendices de la formación titulada en Análisis y Desarrollo de Software (ADSO 28) que proyecta terminarse hacia finales del año 2025, créditos compartidos con el Grupo CYBERSENATOR anexo al repositorio</p>
 
   <h3>Maquetación</h3>
-  
+  <p>En este apartado puede ver algo del diseño de interfaz</p>
   <div style="display: flex; justify-content: space-between">
   <img style="text-align: center" src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="150" height="auto">
   <img style="text-align: center" src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="150" height="auto">
-  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="2150" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="150" height="auto">
   </div>
+
+  <p>Para experimentar el prototipo completo acceda al siguiente <a href="https://www.figma.com/proto/UZw7WiLa9oJmMfufDuFrWL/VACUNET_APP?node-id=0-1&t=fGBvVyJA1o4LaCoU-1">link al prototipo<a>, preferiblemente con el uso de un dispositivo móvil, igualmente si lo hace con una computadora o un telefono de resolución diferente al modelo por defecto, puede ajustar el prototipo en las opciones del menú superior derecho del entorno figma</p>
 
   <h3>Código
   
@@ -154,7 +159,7 @@
 
   <h4>En construcción</h4>
 
-  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
+  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="400" height="auto">
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -205,11 +210,11 @@
 
 <!-- Comienzan links de idiomas -->
 
-[Español]: https://img.shields.io/badge/Español-Es-brightgreen
-[Español-url]: https://github.com/aabermudez/
-[Inglés]: https://img.shields.io/badge/Inglés-En-red
-[Inglés-url]: https://github.com/aabermudez/
-[Alemán]: https://img.shields.io/badge/Sprache-De-blue
-[Alemán-url]: https://github.com/aabermudez/
+[Es]: https://img.shields.io/badge/Español-Es-brightgreen
+[Es-url]: https://github.com/aabermudez/
+[En]: https://img.shields.io/badge/Inglés-En-red
+[En-url]: https://github.com/aabermudez/
+[De]: https://img.shields.io/badge/Sprache-De-blue
+[De-url]: https://github.com/aabermudez/
 
 <!-- Hasta aquí links de idiomas -->
