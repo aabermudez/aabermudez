@@ -52,37 +52,62 @@
 </div>
 
 <div id="Proyectos">
+  
   <h1>Proyectos actuales.</h1>
    
   <h2 id="Litorales"> Litorales de Colombia. </h2>
 
-  Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena (CIOH) acompañando actividades del Servicio Hidrográfico Nacional (SHN) dependencias de la Dirección General Marítima.
+  <p align="center">Se trata de mi primer proyecto web, en el que antes de adentrarme en una formación académica de análisis y desarrollo de sofware, quise compartir aspectos geomorfológicos, geográficos y geológicos de las costas colombianas aprovechando mi paso profesional por el Centro de Investigaciones Oceanográficas e Hidrográficas en Cartagena (CIOH) acompañando actividades del Servicio Hidrográfico Nacional (SHN) dependencias de la Dirección General Marítima.
+  </p>
 
   <a href="litocol.github.io/litorales/" align="center">
-    <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="500" height="auto">
+    <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="400" height="auto">
   </a>
 
-  Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.
+  <p>Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.</p>
 
-  Temáticas:
-  * Geomorfología
-  * Geografía
-  * Geología
+  <h3>Temáticas:</h3>
+  <div>
+    <ol>
+      <li>Geomorfología</li>
+      <li>Geografía</li>
+      <li>Geología</li>
+  </div>
 
-  ### Colaboradores.
+  <h3> Colaboradores.</h3>
 
-  Andrés Agudelo Bermúdez (Activo)
+  <p>Andrés Agudelo Bermúdez (Activo)
   Nila Parra León (Activa)
-  Miguel Diego Gómez Sánchez (Inactivo)
+  Miguel Diego Gómez Sánchez (Inactivo)</p>
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-  ## Software VACUNET.
-  #### Sistema de gestión de usuarios, citas y certificación de procesos de vacunación.
+  <h2>Software VACUNET.</h2>
+  <h4>Sistema de gestión de usuarios, citas y certificación de procesos de vacunación.</h4>
+
+  <h3>Marco</h3>
+
+
+  <h3>Maquetación</h3>
+  
+  <div style="display: flex; justify-content: space-between">
+  <img style="text-align: center" src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="200" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="200" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="200" height="auto">
+  </div>
+
+  
+
+  <h3>Código
+  
+  A medida se consigan avances de código se irán referenciando.
+
+  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
 
 </div>
 
 <div>
+  
   # Tecnologías con las que he tenido contacto
 
   A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto (manipular código) con los siguientes lenguajes de programación:
@@ -129,9 +154,9 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 
 - En construcción
 
-<img src= "/images/Enconstruccion.png" alt="En construccion" width ="450" height="auto">
+<img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
 
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 </main>
 
