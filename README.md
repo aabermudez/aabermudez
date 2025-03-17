@@ -106,57 +106,59 @@
 
 <div>
   
-  # Tecnologías con las que he tenido contacto
+  <h1>Tecnologías con las que he tenido contacto</h1>
 
   A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto (manipular código) con los siguientes lenguajes de programación:
 
-  * [![Python][Py]][Py-url]
-  * [![JavaScript][JS]][JS-url]
-  * [![HTML/CSS][H/C]][H/C-url]
-  * [![JAVA][JV]][JV-url]
-  * [![SQL][Rel]][Rel-url]
+  [![Python][Py]][Py-url]
+  [![JavaScript][JS]][JS-url]
+  [![HTML/CSS][H/C]][H/C-url]
+  [![JAVA][JV]][JV-url]
+  [![SQL][Rel]][Rel-url]
 
-  Y herramientas de trabajo.
+  Y herramientas de trabajo:
 
-  * [![Google workspace][Docs]][Docs-url]
-  * [![Figma/Canva][FC]][FC-url]
-  * [![VSCode][VS]][VS-url]
+  [![Google workspace][Docs]][Docs-url]
+  [![Figma/Canva][FC]][FC-url]
+  [![VSCode][VS]][VS-url]
 
   Idiomas:
 
-  * [![Español][Es]][Es-url]
-  * [![Inglés][En]][En-url]
-  * [![Alemán][De]][De-url]
+  [![Español][Es]][Es-url]
+  [![Inglés][En]][En-url]
+  [![Alemán][De]][De-url]
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-## Licencia
+  <h2>Licencia</h2>
 
-La presente versión de archivo Readme se constrye en base a la <a href= https://github.com/othneildrew/Best-README-Template>plantilla<a> de <a href = https://github.com/othneildrew>othneildrew<a>, para mis información y extensión de uso cheque el archivo <a href=https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt>`LICENSE.txt`<a>.
-
-  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
-## Contacto
-
-Puede contactarme por los siguientes medios:
-
-  * Correo electrónico: aabermudez@unal.edu.co
-  * Celular: +57 3234213355
-  * Lindedin: <a href=www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8>Conecte al perfil<a>
+  <p>La presente versión de archivo Readme se constrye en base a la <a href= https://github.com/othneildrew/Best-README-Template>plantilla<a> de <a href = https://github.com/othneildrew>othneildrew<a>, para mis información y extensión de uso cheque el archivo <a href=https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt>`LICENSE.txt`<a>.</p>
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-## Reconocimientos
+  <h2>Contacto</h2>
 
-Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya referenciado en el apartado de licencia, pueden venir de alguna plantilla alojada en los siguientes repositorios. Si es que no se trata de un fork al menos tomé ideas o fragmentos de código de estos (con su permiso claro está), por esto les agradezco y hago mención:
+  <h4>Puede contactarme por los siguientes medios:</h4>
 
-- En construcción
+  <ul>
+    <li>Correo electrónico: aabermudez@unal.edu.co</li>
+    <li>Celular: +57 3234213355</li>
+    <li>Lindedin: <a href=www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8>Conecte al perfil<a></li>
+  </ul>
 
-<img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
+  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <h2>Reconocimientos</h2>
 
-</main>
+  <p>Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya referenciado en el apartado de licencia, pueden venir de alguna plantilla alojada en los siguientes repositorios. Si es que no se trata de un fork al menos tomé ideas o fragmentos de código de estos (con su permiso claro está), por esto les agradezco y hago mención:</p>
+
+  <h4>En construcción</h4>
+
+  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<div>
 
 <!-- Comienzan links de placas de cabecera -->
 
@@ -194,7 +196,7 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 
 [Docs]: https://img.shields.io/badge/Google%20Workspace-Documentation-gray
 [Docs-url]: https://github.com/aabermudez/
-[Figma/Canva]: https://img.shields.io/badge/Figma%2FCanva-Design-%238A35DA
+[FC]: https://img.shields.io/badge/Figma%2FCanva-Design-%238A35DA
 [FC-url]: https://github.com/aabermudez/
 [VS]: https://github.com/aabermudez/
 [VS-url]: https://img.shields.io/badge/VS%20Code-IDE-blue
