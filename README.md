@@ -85,9 +85,9 @@
 <div>
   # Tecnologías con las que he tenido contacto
 
-  A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto con los siguientes lenguajes de programación:
+  A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto (manipular código) con los siguientes lenguajes de programación:
 
-  * [![Python][Py]][Next-url]
+  * [![Python][Py]][Pyt-url]
   * [![JavaScript][JS]][JS-url]
   * [![HTML/CSS][H/C]][H/C-url]
   * [![JAVA][JV]][JV-url]
@@ -107,46 +107,19 @@
   - [ ] Chinese
   - [ ] Spanish
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
-  <!-- CONTRIBUTING -->
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Top contributors:
-
-  <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-  </a>
-
-  <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
-  <!-- LICENSE -->
-
 ## Licencia
 
-La presente versión de archivo Readme se constrye en base a la <a href= https://github.com/othneildrew/Best-README-Template>plantilla de othneildrew<a>, para mis información y extensión de uso cheque el archivo `LICENSE.txt`.
+La presente versión de archivo Readme se constrye en base a la <a href= https://github.com/othneildrew/Best-README-Template>plantilla<a> de <a href = https://github.com/othneildrew>othneildrew<a>, para mis información y extensión de uso cheque el archivo <a href=https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt>`LICENSE.txt`<a>.
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
 ## Contacto
 
-Puede
+Puede contactarme por los siguientes medios:
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+  * Correo electrónico: aabermudez@unal.edu.co
+  * Celular: +57 3234213355
+  * Lindedin: <a href=www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8>Conecte al perfil<a>
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
@@ -156,7 +129,7 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 
 - En construcción
 
-<img src= "/images/Enconstruccion.png" alt="En construccion" width ="120" height="auto">
+<img src= "/images/Enconstruccion.png" alt="En construccion" width ="450" height="auto">
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,8 +157,8 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 [JS]: https://img.shields.io/badge/Javascript-React%2FAngular%2FExpress-yellow
 [JS-url]: https://github.com/aabermudez/
 [HC]: https://github.com/aabermudez/
-[HC-url]: https://img.shields.io/badge/Html%2FCss-Bootstrap-white
+[HC-url]: https://img.shields.io/badge/Html%2FCss-Bootstrap-#CDB4DB
 [JV]: https://github.com/aabermudez/
-[JV-url]: https://img.shields.io/badge/Java-Hibernate/Spring-green
+[JV-url]: https://img.shields.io/badge/Java-Hibernate/Spring-#A8DADC
 [Rel]: https://github.com/aabermudez/
-[Rel-url]: https://img.shields.io/badge/SQL-MySQL-purple
+[Rel-url]: https://img.shields.io/badge/SQL-MySQL-#9B5DE5
