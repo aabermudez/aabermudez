@@ -112,7 +112,7 @@
 
   A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto (manipular código) con los siguientes lenguajes de programación:
 
-  * [![Python][Py]][Pyt-url]
+  * [![Python][Py]][Py-url]
   * [![JavaScript][JS]][JS-url]
   * [![HTML/CSS][H/C]][H/C-url]
   * [![JAVA][JV]][JV-url]
@@ -181,9 +181,9 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 [Py-url]: https://github.com/aabermudez/
 [JS]: https://img.shields.io/badge/Javascript-React%2FAngular%2FExpress-yellow
 [JS-url]: https://github.com/aabermudez/
-[HC]: https://github.com/aabermudez/
-[HC-url]: https://img.shields.io/badge/Html%2FCss-Bootstrap-#CDB4DB
+[H/C]: https://github.com/aabermudez/
+[H/C-url]: https://img.shields.io/badge/Html%2FCss-Bootstrap-#CDB4DB
 [JV]: https://github.com/aabermudez/
-[JV-url]: https://img.shields.io/badge/Java-Hibernate/Spring-#A8DADC
+[JV-url]: https://img.shields.io/badge/Java-Hibernate%2FSpring-%23A8DADC
 [Rel]: https://github.com/aabermudez/
-[Rel-url]: https://img.shields.io/badge/SQL-MySQL-#9B5DE5
+[Rel-url]: https://img.shields.io/badge/SQL-MySQL-%239B5DE5
