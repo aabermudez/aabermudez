@@ -91,18 +91,16 @@
   <h3>Maquetación</h3>
   
   <div style="display: flex; justify-content: space-between">
-  <img style="text-align: center" src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="200" height="auto">
-  <img style="text-align: center" src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="200" height="auto">
-  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="200" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="150" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="150" height="auto">
+  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="2150" height="auto">
   </div>
-
-  
 
   <h3>Código
   
-  A medida se consigan avances de código se irán referenciando.
+  <p>A medida se consigan avances de código se irán referenciando.</p>
 
-  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="500" height="auto">
+  <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="400" height="auto">
 
 </div>
 
@@ -120,17 +118,17 @@
 
   Y herramientas de trabajo.
 
+  * [![Google workspace][Docs]][Docs-url]
+  * [![Figma/Canva][FC]][FC-url]
+  * [![VSCode][VS]][VS-url]
+
+  Idiomas:
+
+  * [![Español][Es]][Es-url]
+  * [![Inglés][En]][En-url]
+  * [![Alemán][De]][De-url]
+
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
-
-</div>
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
 
 ## Licencia
 
@@ -163,19 +161,21 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 <!-- Comienzan links de placas de cabecera -->
 
 [Placa-Lenguaje]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
-[Lenguaje-url]: https://img.shields.io/badge/Lenguaje-Es-brightgreen
+[Lenguaje-url]: https://github.com/aabermudez/
 [Language-shield]: https://img.shields.io/badge/Language-En-red
-[Language-url]: https://img.shields.io/badge/Language-En-red
+[Language-url]: https://github.com/aabermudez/
 [Sprache-Plakette]: https://img.shields.io/badge/Sprache-De-blue
-[Sprache-url]: https://img.shields.io/badge/Sprache-De-blue
+[Sprache-url]: https://github.com/aabermudez/
 [Placa-Estudios]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
-[Estudios-url]: https://img.shields.io/badge/Estudios-Pregrado%2FTecnol%C3%B3gico-yellow
+[Estudios-url]: https://github.com/aabermudez/
 [Placa-Licencia]: https://img.shields.io/badge/Licencia-Sin%20licencia-%238A2BE2
 [Licencia-url]: https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt
 [Placa-Linkedin]: https://img.shields.io/badge/Red%20laboral-Linkedin-%23ff5733
 [Linkedin-url]: www.linkedin.com/in/andrés-agudelo-bermúdez-833b781b8
 
 <!-- Hasta aquí links de placas de cabecera -->
+
+<!-- Comienzan links de programación -->
 
 [Py]: https://img.shields.io/badge/Python-pandas%2Fmatplotlib-%231284C5
 [Py-url]: https://github.com/aabermudez/
@@ -187,3 +187,27 @@ Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya r
 [JV-url]: https://img.shields.io/badge/Java-Hibernate%2FSpring-%23A8DADC
 [Rel]: https://github.com/aabermudez/
 [Rel-url]: https://img.shields.io/badge/SQL-MySQL-%239B5DE5
+
+<!-- Hasta aquí links de programación -->
+
+<!-- Comienzan links de herramientas -->
+
+[Docs]: https://img.shields.io/badge/Google%20Workspace-Documentation-gray
+[Docs-url]: https://github.com/aabermudez/
+[Figma/Canva]: https://img.shields.io/badge/Figma%2FCanva-Design-%238A35DA
+[FC-url]: https://github.com/aabermudez/
+[VS]: https://github.com/aabermudez/
+[VS-url]: https://img.shields.io/badge/VS%20Code-IDE-blue
+
+<!-- Hasta aquí links de herramientas -->
+
+<!-- Comienzan links de idiomas -->
+
+[Español]: https://img.shields.io/badge/Español-Es-brightgreen
+[Español-url]: https://github.com/aabermudez/
+[Inglés]: https://img.shields.io/badge/Inglés-En-red
+[Inglés-url]: https://github.com/aabermudez/
+[Alemán]: https://img.shields.io/badge/Sprache-De-blue
+[Alemán-url]: https://github.com/aabermudez/
+
+<!-- Hasta aquí links de idiomas -->
