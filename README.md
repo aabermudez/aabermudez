@@ -31,9 +31,9 @@
     <br />
     <a href="https://desarrolloscreativos.dev/">Dominio</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="#contacto">Contacto</a>
     &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Contáctame</a>
+    <a href="recon">Reconocimiento</a>
   </p>
 </div>
 
@@ -64,7 +64,7 @@
     <img src="images/Litocol.png" alt="Landig page de la web Litorales de Colombia" width="400" height="auto">
   </a>
 
-  <p>Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartemos de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.</p>
+  <p>Actualmente el sitio está en construcción, pero es un punto interesante para dar a conocer mis habilidades de programación front-end al tiempo que exploramos apartes de ciencias de la tierra y Sistemas de información Geográfica (SIG) aplicados al territorio Colombiano como un interés de proyecto personal del autor y colaboradores, algunos esporádicos.</p>
 
   <h3>Temáticas:</h3>
   <div>
@@ -93,24 +93,21 @@
 
   <h3>Maquetación</h3>
   <p>En este apartado puede ver algo del diseño de interfaz</p>
-  <div style="display: flex; justify-content: space-between">
-  <img style="text-align: center" src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="150" height="auto">
-  <img style="text-align: center" src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="150" height="auto">
-  <img style="text-align: center" src="/images/Maquetacion/Principal.png" alt="En construccion" width ="150" height="auto">
-  </div>
-
+  <div align="center">
+  <img src="/images/Maquetacion/Inicial.png" alt="En construccion" width ="150" height="auto">
+  <img src="/images/Maquetacion/Error_404.png" alt="En construccion" width ="150" height="auto">
+  <img src="/images/Maquetacion/Principal.png" alt="En construccion" width ="150" height="auto">
+  <br>
   <p>Para experimentar el prototipo completo acceda al siguiente <a href="https://www.figma.com/proto/UZw7WiLa9oJmMfufDuFrWL/VACUNET_APP?node-id=0-1&t=fGBvVyJA1o4LaCoU-1">link al prototipo<a>, preferiblemente con el uso de un dispositivo móvil, igualmente si lo hace con una computadora o un telefono de resolución diferente al modelo por defecto, puede ajustar el prototipo en las opciones del menú superior derecho del entorno figma</p>
 
-  <h3>Código
+  <h3>Código</h3>
   
   <p>A medida se consigan avances de código se irán referenciando.</p>
 
   <img align="center" src= "/images/Enconstruccion.png" alt="En construccion" width ="400" height="auto">
-
 </div>
 
 <div>
-  
   <h1>Tecnologías con las que he tenido contacto</h1>
 
   A lo largo de mis estudios formales e informales en temas varios de análisis y desarrollo de software he tenido la oportunidad de tener contacto (manipular código) con los siguientes lenguajes de programación:
@@ -135,13 +132,13 @@
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-  <h2>Licencia</h2>
+  <h2 id="licencia">Licencia del readme</h2>
 
   <p>La presente versión de archivo Readme se constrye en base a la <a href= https://github.com/othneildrew/Best-README-Template>plantilla<a> de <a href = https://github.com/othneildrew>othneildrew<a>, para mis información y extensión de uso cheque el archivo <a href=https://github.com/aabermudez/aabermudez/blob/main/LICENSE.txt>`LICENSE.txt`<a>.</p>
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-  <h2>Contacto</h2>
+  <h2 id="Contacto">Contacto</h2>
 
   <h4>Puede contactarme por los siguientes medios:</h4>
 
@@ -153,7 +150,7 @@
 
   <p align="right">(<a href="#readme-top">Volver al inicio</a>)</p>
 
-  <h2>Reconocimientos</h2>
+  <h2 id="recon">Reconocimientos</h2>
 
   <p>Muchos de mis primeros proyectos, entre los que cuento este archivo readme, ya referenciado en el apartado de licencia, pueden venir de alguna plantilla alojada en los siguientes repositorios. Si es que no se trata de un fork al menos tomé ideas o fragmentos de código de estos (con su permiso claro está), por esto les agradezco y hago mención:</p>
 
